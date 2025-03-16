@@ -5,7 +5,7 @@
 
 Файл: Protected_areas_BG_20250131
 
-Формат: Geopackage
+Формат: Geopackage (компресиран в 7zip архив)
 
 Тип: Векторен (полигони)
 
